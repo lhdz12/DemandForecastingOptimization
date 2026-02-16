@@ -15,4 +15,5 @@ data/
 *.parquet
 *.csv
 *.duckdb
+*.wal 
 
