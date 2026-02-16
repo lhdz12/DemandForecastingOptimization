@@ -1,0 +1,17 @@
+# virtual environment
+.venv/
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# data
+data/
+*.db
+*.parquet
+*.csv
+
